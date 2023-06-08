@@ -20,8 +20,6 @@
     max-width: 1550px;
     height: 95vh;
     border-radius: 30px;
-    align-self: center;
-    justify-self: cente;
 }
 
 .nav__bar{
@@ -78,8 +76,8 @@
 }
 
 .section{
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
     padding: 20px 10px 0 10px;
 }
 
